@@ -1,5 +1,5 @@
 
-# Hi there, I'm Rongsen Wu 👋
+# Hi there, I'm Peter 👋
 
 🎓 Researcher at the **University of Electronic Science and Technology of China (UESTC)**.
 
@@ -26,5 +26,5 @@
 ### 📫 Connect
 
 - 🏫 Affiliation: UESTC, Chengdu, China
-- 📚 Google Scholar: [Add your link here](https://scholar.google.com.hk/citations?user=-4epd4MAAAAJ)
+- 📚 Google Scholar: [Google scholar link](https://scholar.google.com.hk/citations?user=-4epd4MAAAAJ)
 - 💬 Open to research collaboration and academic discussions.
