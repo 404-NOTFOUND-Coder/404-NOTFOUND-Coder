@@ -15,9 +15,11 @@
 
 ### 🚀 Research Projects
 
-- **TEACG** — Training-free long-range video question answering through temporal evidence acquisition and consensus-gated answer intervention.
-- **KG-MTA** — Knowledge-graph-grounded multi-tool reasoning for trustworthy user profile generation.
-- **Video Scene Graph Generation** — Spatiotemporal feature learning with global-local Transformer architectures.
+- **Long-Video Understanding** — Temporal reasoning and video question answering.
+- **Multimodal Intelligence** — Vision-language understanding and reasoning.
+- **Trustworthy AI** — Hallucination mitigation and reliable AI systems.
+- **Video Scene Understanding** — Spatiotemporal modeling and scene graph generation.
+- **Multi-Agent Systems** — Collaborative reasoning and intelligent decision-making.
 
 ### 🛠️ Technologies
 
